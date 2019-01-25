@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MsgSharedApp</string>
+
+    <string name="btn_show_toast">Show Toast</string>
+    <string name="btn_your_msg">Enter your message</string>
+    <string name="btn_send_msg">Send message to next activity</string>
+    <string name="btn_share_msg">share message</string>
+    <string name="btn_hobbies">Show Hobbies</string>
 </resources>
